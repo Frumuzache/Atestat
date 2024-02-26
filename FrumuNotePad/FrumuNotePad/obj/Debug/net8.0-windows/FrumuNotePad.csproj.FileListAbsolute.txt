@@ -1,0 +1,17 @@
+D:\Inf\Atestat\FrumuNotePad\FrumuNotePad\bin\Debug\net8.0-windows\FrumuNotePad.exe
+D:\Inf\Atestat\FrumuNotePad\FrumuNotePad\bin\Debug\net8.0-windows\FrumuNotePad.deps.json
+D:\Inf\Atestat\FrumuNotePad\FrumuNotePad\bin\Debug\net8.0-windows\FrumuNotePad.runtimeconfig.json
+D:\Inf\Atestat\FrumuNotePad\FrumuNotePad\bin\Debug\net8.0-windows\FrumuNotePad.dll
+D:\Inf\Atestat\FrumuNotePad\FrumuNotePad\bin\Debug\net8.0-windows\FrumuNotePad.pdb
+D:\Inf\Atestat\FrumuNotePad\FrumuNotePad\obj\Debug\net8.0-windows\FrumuNotePad.formMain.resources
+D:\Inf\Atestat\FrumuNotePad\FrumuNotePad\obj\Debug\net8.0-windows\FrumuNotePad.formFind.resources
+D:\Inf\Atestat\FrumuNotePad\FrumuNotePad\obj\Debug\net8.0-windows\FrumuNotePad.csproj.GenerateResource.cache
+D:\Inf\Atestat\FrumuNotePad\FrumuNotePad\obj\Debug\net8.0-windows\FrumuNotePad.GeneratedMSBuildEditorConfig.editorconfig
+D:\Inf\Atestat\FrumuNotePad\FrumuNotePad\obj\Debug\net8.0-windows\FrumuNotePad.AssemblyInfoInputs.cache
+D:\Inf\Atestat\FrumuNotePad\FrumuNotePad\obj\Debug\net8.0-windows\FrumuNotePad.AssemblyInfo.cs
+D:\Inf\Atestat\FrumuNotePad\FrumuNotePad\obj\Debug\net8.0-windows\FrumuNotePad.csproj.CoreCompileInputs.cache
+D:\Inf\Atestat\FrumuNotePad\FrumuNotePad\obj\Debug\net8.0-windows\FrumuNotePad.dll
+D:\Inf\Atestat\FrumuNotePad\FrumuNotePad\obj\Debug\net8.0-windows\refint\FrumuNotePad.dll
+D:\Inf\Atestat\FrumuNotePad\FrumuNotePad\obj\Debug\net8.0-windows\FrumuNotePad.pdb
+D:\Inf\Atestat\FrumuNotePad\FrumuNotePad\obj\Debug\net8.0-windows\FrumuNotePad.genruntimeconfig.cache
+D:\Inf\Atestat\FrumuNotePad\FrumuNotePad\obj\Debug\net8.0-windows\ref\FrumuNotePad.dll
